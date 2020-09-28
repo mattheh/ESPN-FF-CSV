@@ -11,8 +11,8 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "csvjson-json2csv": "^1.0.3",
     "espn-fantasy-football-api": "^0.15.0",
-    "json-2-csv": "^3.7.6",
     "lodash": "^4.17.20"
   }
 }

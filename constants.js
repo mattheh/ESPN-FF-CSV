@@ -5,7 +5,8 @@ const LEAGUE_ID = 1234;
 const ESPN_S2 = "foo";
 const SWID = "foo";
 
-const SCORING_PERIOD_ID = "0"
+const SCORING_PERIOD_ID = 0
+const MATCHUP_PERIOD_ID = 0
 const SEASON_ID = "2020"
 
 export {
@@ -13,5 +14,6 @@ export {
     ESPN_S2,
     SWID,
     SCORING_PERIOD_ID,
+    MATCHUP_PERIOD_ID,
     SEASON_ID
 };
